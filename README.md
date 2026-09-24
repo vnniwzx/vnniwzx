@@ -39,10 +39,3 @@ Atualmente, estou focado em aprofundar minha lógica e habilidades práticas em:
 - Estruturação de projetos com **C#**
 
 ---
-
-## 📊 Estatísticas do GitHub
-
-<div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=dark"/>
-</div>
