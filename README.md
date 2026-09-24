@@ -37,5 +37,3 @@ Atualmente, estou focado em aprofundar minha lógica e habilidades práticas em:
 - Desenvolvimento Full-Stack com **JavaScript** e **Python**
 - Modelagem e consultas em banco de dados **SQL**
 - Estruturação de projetos com **C#**
-
----
