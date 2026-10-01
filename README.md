@@ -11,8 +11,8 @@ Tenho 17 anos, moro na Zona Leste de São Paulo e estou no 2º ano do Ensino Mé
 Minha paixão por tecnologia nasceu na infância através dos jogos e da curiosidade de entender a engenharia por trás das aplicações. Atualmente, estou em busca da minha primeira oportunidade de **estágio em desenvolvimento de software** para colocar a mão na massa, evoluir tecnicamente e construir minha carreira na área de TI.
 
 💡 **Hobbies e Interesses:**
-- 🏎️ Entusiasta do universo automotivo (carros esportivos, modificações e cultura drift)
-- 🎨 Acompanho desfiles de moda, *showrooms* e *pop-ups* (sonho em ver de perto uma *Paris* ou *São Paulo Fashion Week*)
+- 🏎️ Entusiasta do universo automotivo 
+- 🎨 Acompanho desfiles de moda, *showrooms* e *pop-ups*
 - ✈️ Apaixonado por viagens e novas culturas
 
 ---
